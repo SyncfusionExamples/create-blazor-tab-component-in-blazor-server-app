@@ -49,7 +49,7 @@ It’s easy to integrate other Blazor components as content of the tab’s pane.
 
 [Documentation](https://blazor.syncfusion.com/documentation/tabs/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-tabs-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/tabs/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-tabs-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/create-blazor-tab-component-in-blazor-server-app?utm_source=github&utm_medium=listing&utm_campaign=blazor-tabs-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-tabs-github-samples)
 
