@@ -4,7 +4,6 @@ The [Blazor Tabs](https://www.syncfusion.com/blazor-components/blazor-tabs?utm_s
 
 ## Project pre-requisites
 Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK latest version(3.1.2) in your machine before starting to work on this project.
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET C.
 
 ## How to run this application?
 To run this application, you need to first clone the create-blazor-tabs-component-in-blazor-server-app repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
