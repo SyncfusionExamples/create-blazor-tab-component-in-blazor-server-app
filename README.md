@@ -32,7 +32,7 @@ The Blazor Tabs control allows users to [drag and drop](https://blazor.syncfusio
 It’s easy to integrate other Blazor components as content of the tab’s pane. The Blazor Tab control can also be integrated with other components such as Dialog and Card.
 
 ## Related links
-[Learn more about Blazor Tabs](https://www.syncfusion.com/blazor-components/blazor-tabs?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
+[Learn More about Blazor Tabs](https://www.syncfusion.com/blazor-components/blazor-tabs?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
