@@ -36,7 +36,7 @@ It’s easy to integrate other Blazor components as content of the tab’s pane.
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
 [Documentation](https://blazor.syncfusion.com/documentation/tabs/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
